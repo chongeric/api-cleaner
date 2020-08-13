@@ -10,5 +10,15 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "ChongEric\\ApiCleaner\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ChongEric\\ApiCleaner\\Tests\\": "tests/"
+        }
+    },
     "version": "1.0.0"
 }
