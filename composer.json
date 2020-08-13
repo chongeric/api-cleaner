@@ -1,0 +1,14 @@
+{
+    "name": "chongeric/api-cleaner",
+    "description": "this is my first laravel demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eric",
+            "email": "782934029@qq.com"
+        }
+    ],
+    "require": {},
+    "version": "1.0.0"
+}
