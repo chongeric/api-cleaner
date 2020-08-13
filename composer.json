@@ -20,5 +20,15 @@
             "ChongEric\\ApiCleaner\\Tests\\": "tests/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ChongEric\\ApiCleaner\\Providers\\ApiCleanerServiceProvider"
+            ]
+        },
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
     "version": "1.0.0"
 }
